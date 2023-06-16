@@ -1,0 +1,20 @@
+[
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "inspiration",
+    "tags": ["work", "motivation", "passion"]
+  },
+  {
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "inspiration",
+    "tags": ["difficulty", "opportunity"]
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "motivation",
+    "tags": ["success", "failure", "courage"]
+  }
+]
