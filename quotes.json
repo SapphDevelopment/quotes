@@ -532,5 +532,323 @@
     "author": "Mother Teresa",
     "category": "motivation",
     "tags": ["leadership", "initiative", "empowerment"]
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "inspiration",
+    "tags": ["success", "failure", "courage"]
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "tags": ["work", "passion", "success"]
+  },
+  {
+    "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "wisdom",
+    "tags": ["life", "meaning", "perspective"]
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "inspiration",
+    "tags": ["belief", "motivation", "optimism"]
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "dreams",
+    "tags": ["future", "belief", "inspiration"]
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "possibility",
+    "tags": ["limit", "doubt", "belief"]
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "perseverance",
+    "tags": ["time", "perseverance", "motivation"]
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "wisdom",
+    "tags": ["future", "creation", "proactivity"]
+  },
+  {
+    "text": "The only person you should try to be better than is the person you were yesterday.",
+    "author": "Anonymous",
+    "category": "self-improvement",
+    "tags": ["progress", "growth", "self"]
+  },
+  {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "inspiration",
+    "tags": ["time", "life", "individuality"]
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "inspiration",
+    "tags": ["success", "failure", "courage"]
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "motivation",
+    "tags": ["work", "passion", "success"]
+  },
+  {
+    "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "wisdom",
+    "tags": ["life", "meaning", "perspective"]
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "inspiration",
+    "tags": ["belief", "motivation", "optimism"]
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "dreams",
+    "tags": ["future", "belief", "inspiration"]
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "possibility",
+    "tags": ["limit", "doubt", "belief"]
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "perseverance",
+    "tags": ["time", "perseverance", "motivation"]
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "wisdom",
+    "tags": ["future", "creation", "proactivity"]
+  },
+  {
+    "text": "The only person you should try to be better than is the person you were yesterday.",
+    "author": "Anonymous",
+    "category": "self-improvement",
+    "tags": ["progress", "growth", "self"]
+  },
+  {
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "category": "love",
+    "tags": ["soul", "connection"]
+  },
+  {
+    "text": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+    "author": "Victor Hugo",
+    "category": "love",
+    "tags": ["happiness", "acceptance", "self"]
+  },
+  {
+    "text": "Love isn't something you find. Love is something that finds you.",
+    "author": "Loretta Young",
+    "category": "love",
+    "tags": ["destiny", "serendipity"]
+  },
+  {
+    "text": "Love is when the other person's happiness is more important than your own.",
+    "author": "H. Jackson Brown Jr.",
+    "category": "love",
+    "tags": ["selflessness", "compassion"]
+  },
+  {
+    "text": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "category": "love",
+    "tags": ["support", "companionship"]
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "self-improvement",
+    "tags": ["work", "passion", "success"]
+  },
+  {
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "self-improvement",
+    "tags": ["goals", "dreams", "age"]
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "self-improvement",
+    "tags": ["success", "failure", "courage"]
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "self-improvement",
+    "tags": ["belief", "motivation", "optimism"]
+  },
+  {
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "self-improvement",
+    "tags": ["happiness", "success", "passion"]
+  },
+  {
+    "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "wisdom",
+    "tags": ["life", "meaning", "perspective"]
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "wisdom",
+    "tags": ["knowledge", "humility"]
+  },
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "wisdom",
+    "tags": ["perseverance", "resilience", "success"]
+  },
+  {
+    "text": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown Jr.",
+    "category": "wisdom",
+    "tags": ["preparation", "effort", "future"]
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "inspiration",
+    "tags": ["belief", "motivation", "optimism"]
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "inspiration",
+    "tags": ["future", "belief", "inspiration"]
+  },
+  {
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "possibility",
+    "tags": ["limit", "doubt", "belief"]
+  },
+  {
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "perseverance",
+    "tags": ["time", "perseverance", "motivation"]
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "wisdom",
+    "tags": ["future", "creation", "proactivity"]
+  },
+  {
+    "text": "The only person you should try to be better than is the person you were yesterday.",
+    "author": "Anonymous",
+    "category": "self-improvement",
+    "tags": ["progress", "growth", "self"]
+  },
+  {
+    "text": "Love is composed of a single soul inhabiting two bodies.",
+    "author": "Aristotle",
+    "category": "love",
+    "tags": ["soul", "connection"]
+  },
+  {
+    "text": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+    "author": "Victor Hugo",
+    "category": "love",
+    "tags": ["happiness", "acceptance", "self"]
+  },
+  {
+    "text": "Love isn't something you find. Love is something that finds you.",
+    "author": "Loretta Young",
+    "category": "love",
+    "tags": ["destiny", "serendipity"]
+  },
+  {
+    "text": "Love is when the other person's happiness is more important than your own.",
+    "author": "H. Jackson Brown Jr.",
+    "category": "love",
+    "tags": ["selflessness", "compassion"]
+  },
+  {
+    "text": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "category": "love",
+    "tags": ["support", "companionship"]
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "self-improvement",
+    "tags": ["work", "passion", "success"]
+  },
+  {
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "self-improvement",
+    "tags": ["goals", "dreams", "age"]
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "self-improvement",
+    "tags": ["success", "failure", "courage"]
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "self-improvement",
+    "tags": ["belief", "motivation", "optimism"]
+  },
+  {
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "author": "Albert Schweitzer",
+    "category": "self-improvement",
+    "tags": ["happiness", "success", "passion"]
+  },
+  {
+    "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln",
+    "category": "wisdom",
+    "tags": ["life", "meaning", "perspective"]
+  },
+  {
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "wisdom",
+    "tags": ["knowledge", "humility"]
+  },
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "wisdom",
+    "tags": ["perseverance", "resilience", "success"]
+  },
+  {
+    "text": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown Jr.",
+    "category": "wisdom",
+    "tags": ["preparation", "effort", "future"]
   }
 ]
