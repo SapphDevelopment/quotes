@@ -3,6 +3,7 @@ export enum categories {
   motivation = "motivation",
   love = "love",
   success = "success",
+  happy = "happy",
   perseverance = "perseverance",
   wisdom = "wisdom",
 }
