@@ -1,18 +1,4 @@
-enum categories {
-  "inspiration",
-  "motivation",
-  "love",
-  "success",
-  "perseverance",
-  "wisdom",
-}
-
-interface Quote {
-  text: string;
-  author: string;
-  category: categories;
-  tags: string[];
-}
+import { categories, Quote } from "./interfaces.js";
 
 const quote: Quote[] = [
   {
