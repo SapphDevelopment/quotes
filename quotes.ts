@@ -697,5 +697,101 @@ const quote: Quote[] = [
     category: categories.love,
     tags: ["love", "romance"],
   },
-  // Quote 85 - For Ducko is contiune adding these love quotes...
+  {
+    text: "Personally, I love a great love story.",
+    author: "Meghan Markle",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Love is the flower; you've got to let it grow.",
+    author: "John Lennon",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Maybe I don’t know that much but I know this much is true, I was blessed because I was loved by you.",
+    author: "Celine Dion",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "When you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible.",
+    author: "When Harry Met Sally",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Love loves to love love.",
+    author: "James Joyce",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Nobody has ever measured, not even poets, how much the heart can hold.",
+    author: "Zelda Fitzgerald",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Love is an endless act of forgiveness.",
+    author: "Beyoncé",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "All you need is love. But a little chocolate now and then doesn't hurt.",
+    author: "Charles M. Schulz",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "First and foremost, self-love, and then give love away.",
+    author: "Katy Perry",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "The smile is the beginning of love.",
+    author: "Mother Teresa",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Some love stories aren't epic novels. Some are short stories, but that doesn't make them any less filled with love.",
+    author: "Sex and the City",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "All you need is love.",
+    author: "The Beatles",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "Love was made for me and you.",
+    author: "Nat King Cole",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "I’d never lived before your love.",
+    author: "Kelly Clarkson",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  {
+    text: "At the touch of love everyone becomes a poet.",
+    author: "Plato",
+    category: categories.love,
+    tags: ["love", "romance"],
+  },
+  // {
+  //   text: "TEXT",
+  //   author: "AUHTOR",
+  //   category: categories.love,
+  //   tags: ["love", "romance"],
+  // },
+  // Quote 100 - For Ducko is contiune adding these love quotes...
 ];
