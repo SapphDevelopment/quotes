@@ -1105,11 +1105,89 @@ const quote: Quote[] = [
     category: categories.sad,
     tags: ["sad", "depressed", "depression"],
   },
-  // {
-  //   text: "TEXT",
-  //   author: "AUTHOR",
-  //   category: categories.sad,
-  //   tags: ["sad", "depressed", "depression"],
-  // },
-  // Quote 11 - For Ducko is contiune adding these love quotes...
+  {
+    text: "Things change. And friends leave. Life doesn’t stop for anybody.",
+    author: "Stephen Chbosky",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "You make me feel like a firefly. Trapped in a belljar; starved for love.",
+    author: "Ayushee Ghoshal",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Part of me aches at the thought of her being so close yet so untouchable.",
+    author: "Nicholas Sparks",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "It is better to have loved and lost, than never to have loved at all.",
+    author: "Samuel Butler",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Ever has it been that love knows not its own depth until the hour of separation.",
+    author: "Kahlil Gibran",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "He was acting like our kiss had broken him, and his reaction was breaking me.",
+    author: "Shannon A. Thompson",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Love lies in those unsent drafts in your mailbox. Sometimes you wonder whether things would have been different if you’d clicked ‘Send’.",
+    author: "Faraaz Kazi",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Don’t let the scars on your heart define the way you love.",
+    author: "Laura Chouette",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "You can’t buy love, but you can pay heavily for it.",
+    author: "Henny Youngman",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "There is nothing more painful in this world than to be in love with something that never can be.",
+    author: "Laura Chouette",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Just let me keep the last piece of my heart before you tear it all apart.",
+    author: "Lykke Li",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Sometimes temporary feels like a blessing in a world where love only lasts a second.",
+    author: "Laura Chouette",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "Never make a decision when you are upset, sad, jealous or in love.",
+    author: "Mario Teguh",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  {
+    text: "There is love of course. And then there’s life, its enemy.",
+    author: "Jean Anouilh",
+    category: categories.sad,
+    tags: ["sad", "depressed", "depression"],
+  },
+  // Quote 27 - For Ducko is contiune adding these love quotes...
 ];
