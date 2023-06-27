@@ -6,6 +6,7 @@ export enum categories {
   happy = "happy",
   perseverance = "perseverance",
   wisdom = "wisdom",
+  sad = "sad",
 }
 
 export interface Quote {
