@@ -604,6 +604,231 @@ const quote: Quote[] = [
   },
   // Motivational Quotes: If You Fail, Try Again: https://www.forbesindia.com/article/explainers/motivational-quotes/84853/1
   /**
+   * Success Quotes
+   */
+  {
+    text: "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+    author: "Winston Churchill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    author: "Dale Carnegie",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.",
+    author: "Mister Rogers",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "I never dreamed about success. I worked for it.",
+    author: "Estée Lauder",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.",
+    author: "John Wooden",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    author: "Winston Churchill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Experience is a hard teacher because she gives the test first, the lesson afterward.",
+    author: "Vernon Sanders Law",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "When we strive to become better than we are, everything around us becomes better too.",
+    author: "Paulo Coelho",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
+    author: "Joe Girard",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "People often say that motivation doesn’t last. Well, neither does bathing – that’s why we recommend it daily.",
+    author: "Zig Ziglar",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It is never too late to be what you might have been.",
+    author: "George Eliot",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+    author: "William James",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "You cannot plow a field by turning it over in your mind. To begin, begin.",
+    author: "Gordon B. Hinckley",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "One of the differences between some successful and unsuccessful people is that one group is full of doers, while the other is full of wishers.",
+    author: "Edmond Mbiaka",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love…",
+    author: "Marcus Aurelius",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Don't settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.",
+    author: "Angela Bassett",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you believe something needs to exist, if it's something you want to use yourself, don't let anyone ever stop you from doing it.",
+    author: "Tobias Lütke",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Someone's sitting in the shade today because someone planted a tree a long time ago.",
+    author: "Warren Buffet",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    author: "Albert Einstein",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you can't yet do great things, do small things in a great way.",
+    author: "Napoleon Hill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+    author: "Jim Rohn",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Be sure you put your feet in the right place, then stand firm.",
+    author: "Abraham Lincoln",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If the decisions you make about where you invest your blood, sweat, and tears are not consistent with the person you aspire to be, you’ll never become that person.",
+    author: "Clayton M. Christensen",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Live out of your imagination, not your history.",
+    author: "Stephen Covey",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The greater the difficulty, the more the glory in surmounting it.",
+    author: "Epicurus",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
+    author: "Arthur C. Clarke",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "A year from now you will wish you had started today.",
+    author: "Unknown",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you don’t risk anything, you risk even more.",
+    author: "Erica Jong",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Failure is simply the opportunity to begin again, this time more intelligently.",
+    author: "Henry Ford",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+    author: "Bill Gates",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "I can’t tell you how many times I’ve been given a no. Only to find that a better, brighter, bigger yes was right around the corner.",
+    author: "Arlan Hamilton",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes – understanding that failure is not the opposite of success, it’s part of success.",
+    author: "Ariana Huffington",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Every strike brings me closer to the next home run.",
+    author: "Babe Ruth",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Never let success get to your head and never let failure get to your heart.",
+    author: "Drake",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It is a rough road that leads to the heights of greatness.",
+    author: "Lucius Annaeus Seneca",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+    author: "Earl Nightingale",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Nothing ever goes away until it teaches us what we need to know.",
+    author: "Pema Chodron",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  /**
    * Happy Quotes
    */
   {
@@ -1402,7 +1627,7 @@ const quote: Quote[] = [
     tags: ["love", "romance"],
   },
   {
-    text: "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.",
+    text: "When we love, we always strive to become better than we are.",
     author: 'Paulo Coelho, "The Alchemist"',
     category: categories.love,
     tags: ["love", "romance"],
@@ -2742,5 +2967,5 @@ const quote: Quote[] = [
   //   category: categories.sad,
   //   tags: ["sad", "depressed", "depression"],
   // },
-  // Quote 200 - For Ducko is contiune adding these love quotes...
+  // Quote 200 - For Ducko is contiune adding these sad quotes...
 ];
