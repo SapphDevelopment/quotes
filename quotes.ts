@@ -1,3 +1,25 @@
+// MIT License
+
+// Copyright (c) 2023 Sapphire Developers
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
+
+// The above copyright notice and this permission notice shall be included in all
+// copies or substantial portions of the Software.
+
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+// SOFTWARE.
+
 import { categories, Quote } from "./interfaces.js";
 
 const quote: Quote[] = [
@@ -603,408 +625,6 @@ const quote: Quote[] = [
     tags: ["motivation"],
   },
   // Motivational Quotes: If You Fail, Try Again: https://www.forbesindia.com/article/explainers/motivational-quotes/84853/1
-  /**
-   * Success Quotes
-   */
-  {
-    text: "Success is not final; failure is not fatal: It is the courage to continue that counts.",
-    author: "Winston Churchill",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
-    author: "Dale Carnegie",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.",
-    author: "Mister Rogers",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "I never dreamed about success. I worked for it.",
-    author: "Estée Lauder",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.",
-    author: "John Wooden",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
-    author: "Winston Churchill",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Experience is a hard teacher because she gives the test first, the lesson afterward.",
-    author: "Vernon Sanders Law",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "When we strive to become better than we are, everything around us becomes better too.",
-    author: "Paulo Coelho",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
-    author: "Joe Girard",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "People often say that motivation doesn’t last. Well, neither does bathing – that’s why we recommend it daily.",
-    author: "Zig Ziglar",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "It is never too late to be what you might have been.",
-    author: "George Eliot",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
-    author: "William James",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "You cannot plow a field by turning it over in your mind. To begin, begin.",
-    author: "Gordon B. Hinckley",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "One of the differences between some successful and unsuccessful people is that one group is full of doers, while the other is full of wishers.",
-    author: "Edmond Mbiaka",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love…",
-    author: "Marcus Aurelius",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Don't settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.",
-    author: "Angela Bassett",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "If you believe something needs to exist, if it's something you want to use yourself, don't let anyone ever stop you from doing it.",
-    author: "Tobias Lütke",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Someone's sitting in the shade today because someone planted a tree a long time ago.",
-    author: "Warren Buffet",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Life is like riding a bicycle. To keep your balance you must keep moving.",
-    author: "Albert Einstein",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "If you can't yet do great things, do small things in a great way.",
-    author: "Napoleon Hill",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
-    author: "Jim Rohn",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Be sure you put your feet in the right place, then stand firm.",
-    author: "Abraham Lincoln",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "If the decisions you make about where you invest your blood, sweat, and tears are not consistent with the person you aspire to be, you’ll never become that person.",
-    author: "Clayton M. Christensen",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Live out of your imagination, not your history.",
-    author: "Stephen Covey",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "The greater the difficulty, the more the glory in surmounting it.",
-    author: "Epicurus",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
-    author: "Arthur C. Clarke",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "A year from now you will wish you had started today.",
-    author: "Unknown",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "If you don’t risk anything, you risk even more.",
-    author: "Erica Jong",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Failure is simply the opportunity to begin again, this time more intelligently.",
-    author: "Henry Ford",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "It's fine to celebrate success but it is more important to heed the lessons of failure.",
-    author: "Bill Gates",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "I can’t tell you how many times I’ve been given a no. Only to find that a better, brighter, bigger yes was right around the corner.",
-    author: "Arlan Hamilton",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes – understanding that failure is not the opposite of success, it’s part of success.",
-    author: "Ariana Huffington",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Every strike brings me closer to the next home run.",
-    author: "Babe Ruth",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Never let success get to your head and never let failure get to your heart.",
-    author: "Drake",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "It is a rough road that leads to the heights of greatness.",
-    author: "Lucius Annaeus Seneca",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
-    author: "Earl Nightingale",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  {
-    text: "Nothing ever goes away until it teaches us what we need to know.",
-    author: "Pema Chodron",
-    category: categories.success,
-    tags: ["success", "being-successful"],
-  },
-  /**
-   * Happy Quotes
-   */
-  {
-    text: "I will never stop trying. Because when you find the one, you never give up.",
-    author: "Crazy Stupid Love",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I never want to stop making memories with you.",
-    author: "Pierre Jeanty",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "And in her smile I see something more beautiful than the stars.",
-    author: "Beth Revis​, Across the Universe",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I knew the second I met you that there was something about you I needed. Turns out it wasn’t something about you at all. It was just you.",
-    author: "Jamie McGuire",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Life is the flower for which love is the honey.",
-    author: "Victor Hugo",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "All that you are is all that I’ll ever need.",
-    author: "Ed Sheeran​, Tenerife Sea",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I don't know any other way of loving.",
-    author: "Pablo Neruda",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I love you as one loves certain dark things, secretly, between the shadow and the soul.",
-    author: "Pablo Neruda",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I love how she makes me feel like anything is possible, or like life is worth it.",
-    author: "500 Days of Summer",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Death cannot stop true love. All it can do is delay it for a while.",
-    author: "The Princess Bride",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I want all of you, forever, you and me, every day.",
-    author: "Nicholas Sparks, The Notebook",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "What do you want? You want the moon? Just say the word and I'll throw a lasso around it and pull it down.",
-    author: "It's A Wonderful Life",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "To love and be loved is to feel the sun from both sides.",
-    author: "David Viscott",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "You make me want to be a better man.",
-    author: "As Good As It Gets",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I knew it the very first time I touched her. It was like coming home.",
-    author: "Sleepless in Seattle",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Love isn’t something you find. Love is something that finds you.",
-    author: "Loretta Young",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "It would be a privilege to have my heart broken by you.",
-    author: "The Fault In Our Stars",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "It seems right now that all I’ve ever done in my life is making my way here to you.",
-    author: "The Bridges of Madison County",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "You are my heart, my life, my one and only thought.",
-    author: "Sir Arthur Conan Doyle",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "I love that you are the last person I want to talk to before I go to sleep at night.",
-    author: "When Harry Met Sally",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Take love, multiply it by infinity and take it to the depths of forever, and you still have only a glimpse of how I feel for you.",
-    author: "Meet Joe Black",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "With the whole world crumbling, we pick this time to fall in love.",
-    author: "Ilsa in Casablanca",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "He stepped down, trying not to look long at her, as if she were the sun, yet he saw her, like the sun, even without looking.",
-    author: "Leo Tolstoy, Anna Karenina",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "You are my dearest one. My reason for life.",
-    author: "Ian McEwan, Atonement",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Whatever our souls are made of, his and mine are the same.",
-    author: "Emily Brontë, Wuthering Heights",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "If I loved you less, I might be able to talk about it more.",
-    author: "Jane Austen, Emma",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "Being deeply loved by someone gives you strength while loving someone deeply gives you courage.",
-    author: "Lao Tzu",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "You don’t love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
-    author: "Oscar Wilde",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
-  {
-    text: "To be fully seen by somebody, then, and be loved anyhow — this is a human offering that can border on miraculous.",
-    author: "Elizabeth Gilbert",
-    category: categories.happy,
-    tags: ["happy", "love"],
-  },
   /**
    * Love Quotes
    */
@@ -1745,6 +1365,603 @@ const quote: Quote[] = [
     author: "Stephen Chbosky, The Perks of Being a Wallflower",
     category: categories.love,
     tags: ["love", "romance"],
+  },
+  /**
+   * Success Quotes
+   */
+  {
+    text: "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+    author: "Winston Churchill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+    author: "Dale Carnegie",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.",
+    author: "Mister Rogers",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "I never dreamed about success. I worked for it.",
+    author: "Estée Lauder",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.",
+    author: "John Wooden",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    author: "Winston Churchill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Experience is a hard teacher because she gives the test first, the lesson afterward.",
+    author: "Vernon Sanders Law",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "When we strive to become better than we are, everything around us becomes better too.",
+    author: "Paulo Coelho",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
+    author: "Joe Girard",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "People often say that motivation doesn’t last. Well, neither does bathing – that’s why we recommend it daily.",
+    author: "Zig Ziglar",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It is never too late to be what you might have been.",
+    author: "George Eliot",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.",
+    author: "William James",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "You cannot plow a field by turning it over in your mind. To begin, begin.",
+    author: "Gordon B. Hinckley",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "One of the differences between some successful and unsuccessful people is that one group is full of doers, while the other is full of wishers.",
+    author: "Edmond Mbiaka",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love…",
+    author: "Marcus Aurelius",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Don't settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had.",
+    author: "Angela Bassett",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you believe something needs to exist, if it's something you want to use yourself, don't let anyone ever stop you from doing it.",
+    author: "Tobias Lütke",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Someone's sitting in the shade today because someone planted a tree a long time ago.",
+    author: "Warren Buffet",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    author: "Albert Einstein",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you can't yet do great things, do small things in a great way.",
+    author: "Napoleon Hill",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+    author: "Jim Rohn",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Be sure you put your feet in the right place, then stand firm.",
+    author: "Abraham Lincoln",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If the decisions you make about where you invest your blood, sweat, and tears are not consistent with the person you aspire to be, you’ll never become that person.",
+    author: "Clayton M. Christensen",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Live out of your imagination, not your history.",
+    author: "Stephen Covey",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The greater the difficulty, the more the glory in surmounting it.",
+    author: "Epicurus",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
+    author: "Arthur C. Clarke",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "A year from now you will wish you had started today.",
+    author: "Unknown",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "If you don’t risk anything, you risk even more.",
+    author: "Erica Jong",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Failure is simply the opportunity to begin again, this time more intelligently.",
+    author: "Henry Ford",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+    author: "Bill Gates",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "I can’t tell you how many times I’ve been given a no. Only to find that a better, brighter, bigger yes was right around the corner.",
+    author: "Arlan Hamilton",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes – understanding that failure is not the opposite of success, it’s part of success.",
+    author: "Ariana Huffington",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Every strike brings me closer to the next home run.",
+    author: "Babe Ruth",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Never let success get to your head and never let failure get to your heart.",
+    author: "Drake",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "It is a rough road that leads to the heights of greatness.",
+    author: "Lucius Annaeus Seneca",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.",
+    author: "Earl Nightingale",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  {
+    text: "Nothing ever goes away until it teaches us what we need to know.",
+    author: "Pema Chodron",
+    category: categories.success,
+    tags: ["success", "being-successful"],
+  },
+  /**
+   * Happy Quotes
+   */
+  {
+    text: "I will never stop trying. Because when you find the one, you never give up.",
+    author: "Crazy Stupid Love",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I never want to stop making memories with you.",
+    author: "Pierre Jeanty",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "And in her smile I see something more beautiful than the stars.",
+    author: "Beth Revis​, Across the Universe",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I knew the second I met you that there was something about you I needed. Turns out it wasn’t something about you at all. It was just you.",
+    author: "Jamie McGuire",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Life is the flower for which love is the honey.",
+    author: "Victor Hugo",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "All that you are is all that I’ll ever need.",
+    author: "Ed Sheeran​, Tenerife Sea",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I don't know any other way of loving.",
+    author: "Pablo Neruda",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I love you as one loves certain dark things, secretly, between the shadow and the soul.",
+    author: "Pablo Neruda",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I love how she makes me feel like anything is possible, or like life is worth it.",
+    author: "500 Days of Summer",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Death cannot stop true love. All it can do is delay it for a while.",
+    author: "The Princess Bride",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I want all of you, forever, you and me, every day.",
+    author: "Nicholas Sparks, The Notebook",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "What do you want? You want the moon? Just say the word and I'll throw a lasso around it and pull it down.",
+    author: "It's A Wonderful Life",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "To love and be loved is to feel the sun from both sides.",
+    author: "David Viscott",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "You make me want to be a better man.",
+    author: "As Good As It Gets",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I knew it the very first time I touched her. It was like coming home.",
+    author: "Sleepless in Seattle",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Love isn’t something you find. Love is something that finds you.",
+    author: "Loretta Young",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "It would be a privilege to have my heart broken by you.",
+    author: "The Fault In Our Stars",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "It seems right now that all I’ve ever done in my life is making my way here to you.",
+    author: "The Bridges of Madison County",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "You are my heart, my life, my one and only thought.",
+    author: "Sir Arthur Conan Doyle",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "I love that you are the last person I want to talk to before I go to sleep at night.",
+    author: "When Harry Met Sally",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Take love, multiply it by infinity and take it to the depths of forever, and you still have only a glimpse of how I feel for you.",
+    author: "Meet Joe Black",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "With the whole world crumbling, we pick this time to fall in love.",
+    author: "Ilsa in Casablanca",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "He stepped down, trying not to look long at her, as if she were the sun, yet he saw her, like the sun, even without looking.",
+    author: "Leo Tolstoy, Anna Karenina",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "You are my dearest one. My reason for life.",
+    author: "Ian McEwan, Atonement",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Whatever our souls are made of, his and mine are the same.",
+    author: "Emily Brontë, Wuthering Heights",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "If I loved you less, I might be able to talk about it more.",
+    author: "Jane Austen, Emma",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "Being deeply loved by someone gives you strength while loving someone deeply gives you courage.",
+    author: "Lao Tzu",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "You don’t love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
+    author: "Oscar Wilde",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  {
+    text: "To be fully seen by somebody, then, and be loved anyhow — this is a human offering that can border on miraculous.",
+    author: "Elizabeth Gilbert",
+    category: categories.happy,
+    tags: ["happy", "love"],
+  },
+  /**
+   * Perseverance Quotes
+   */
+  {
+    text: "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying 'I will try again tomorrow.'",
+    author: "Mary Anne Radmacher, American author and artist",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Fall seven times and stand up eight.",
+    author: "Japanese Proverb",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "It's not that I'm so smart, it's just that I stay with problems longer.",
+    author: "Albert Einstein",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    author: "Thomas Edison",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Failure is only the opportunity to begin again, this time more intelligently.",
+    author: "Henry Ford",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.",
+    author: "B.F. Skinner",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Ask yourself this question: 'Will this matter a year from now?'",
+    author: "Richard Carlson",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "What if I told you that 10 years from now, your life would be exactly the same? I doubt you'd be happy. So, why are you so afraid of change?",
+    author: "Karen Salmansohn",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "As I look back on my life, I realize that every time I thought I was being rejected from something good, I was actually being redirected to something better.",
+    author: "Dr. Steve Maraboli",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Success is the sum of small efforts, repeated day in and day out.",
+    author: "Robert Collier",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "It does not matter how slowly you go so long as you do not stop.",
+    author: "Confucius",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Never confuse a single defeat with a final defeat.",
+    author: "F. Scott Fitzgerald",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+    author: "Newt Gingrich",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Perseverance is failing 19 times and succeeding the 20th.",
+    author: "Julie Andrews",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Through perseverance many people win success out of what seemed destined to be certain failure.",
+    author: "Benjamin Disraeli",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Success seems to be largely a matter of hanging on after others have let go.",
+    author: "William Feather",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Failure is often that early morning hour of darkness which precedes the dawning of the day of success.",
+    author: "Leigh Mitchell Hodges",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "We will either find a way or make one.",
+    author: "Hannibal",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "It always seems impossible until it's done.",
+    author: "Nelson Mandela",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "The best way out is always through.",
+    author: "Robert Frost",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "A winner is just a loser who tried one more time.",
+    author: "George M. Moore Jr.",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "I don't know the key to success, but the key to failure is trying to please everybody.",
+    author: "Bill Cosby",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Defeat is not the worst of failures. Not to have tried is the true failure.",
+    author: "George Edward Woodberry",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "When you get into a tight place and everything goes against you … never give up then, for that is just the place and time that the tide will turn.",
+    author: "Harriet Beecher Stowe",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "The man who moves a mountain begins by carrying away small stones.",
+    author: "Confucius",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "I am a slow walker, but I never walk back.",
+    author: "Abraham Lincoln",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Courage is not having the strength to go on; it is going on when you don't have the strength.",
+    author: "Theodore Roosevelt",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Character consists of what you do on the third and fourth tries.",
+    author: "James A. Michener",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Perseverance is not a long race; it is many short races one after the other.",
+    author: "Walter Elliot",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "The only courage that matters is the kind that gets you from one moment to the next.",
+    author: "Mignon McLaughlin",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "Let me tell you the secret that has led to my goal. My strength lies solely in my tenacity.",
+    author: "Louis Pasteur",
+    category: categories.perseverance,
+    tags: ["perseverance"],
+  },
+  {
+    text: "I was taught the way of progress is neither swift nor easy.",
+    author: "Marie Curie",
+    category: categories.perseverance,
+    tags: ["perseverance"],
   },
   /**
    * Sad Quotes
