@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-export enum categories {
+export enum Categories {
   inspiration = "inspiration",
   motivation = "motivation",
   love = "love",
@@ -32,8 +32,7 @@ export enum categories {
 }
 
 export interface Quote {
-  text: string;
   author: string;
-  category: categories;
-  tags: string[];
+  quote: string;
+  category: Categories;
 }
