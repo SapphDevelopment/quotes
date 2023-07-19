@@ -1221,6 +1221,121 @@ export const quotes: Quote[] = [
     author: "Milton Berle",
     category: Categories.motivation,
   },
+  {
+    quote: "I don’t need to be motivated because I’m a disciplined person.\nIf I allocate X amount of time to do something, I’m going to do exactly that, with complete and absolute vigor for the allocated amount of time.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Every action you take is molding who you are as a person.\n\nEvery time that you sleep in.\nEvery time you are undisciplined, you are training yourself that it’s okay.\nA downward spiral towards mediocrity.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "You are exactly where you deserve to be.\nChange who you are and you will change how you live.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "If I’m not doing something which is either extremely difficult or extremely stressful I am in a perpetual state of crippling boredom.\nTherefore I constantly seek difficulty to solve and forever succeed.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Men are not designed to be comfortable. They want to achieve. They want to feel pain and suffering. They want to conquer something.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "The person who goes to the gym every day regardless of how they feel will always beat the person who goes to the gym when they feel like going to the gym.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "The immovable object beats the unstoppable force. The immovable object requires less energy. Efficiency always wins.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Emotional control isn’t a lack of emotion, it’s a necessary function of maturity.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Value is linked to difficulty. If you want something that is valuable, you need something which is difficult to obtain. If it was easy, you wouldn't even want it. So why are you complaining that it's hard?",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "I could never stop fighting even if I lost 100 fights because I’m not built to live a normal existence.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "For 12 years I trained 5 hours per day, six days per week, and I was motivated to train probably 25% of the time. The rest of the time I went because I am disciplined.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "The average man doesn’t try very hard. So if you try very hard, it’s impossible to be average.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "You’re going to have to work when you don’t feel like working. That’s how it’s going to have to be, or you’re never going to be important.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Sadness is a warning. You feel it for a reason. Your mind is telling you that you need to work harder.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "A good plan today is better than a perfect plan tomorrow. You’ve gotta do something and you’ve gotta do something fast. You just sitting around talking about it and hoping for things to get better is how you LOSE.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Most people see other people with things they want and don’t do the second half. They don’t try to work out how they got that thing.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "The temporary satisfaction of quitting is outweighed by the eternal suffering of being a nobody.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Close your eyes.\nFocus on making yourself feel excited, powerful.\nImagine destroying every goal with ease.\nSoon - a smile will appear.\nNow open your eyes.\nGet to work.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "The amount of stress you can tolerate while remaining effective is directly correlated to the level of success you will enjoy.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Don’t listen to the advice of people who are living lives you don’t want to live.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "When’s the last time you prevented the negative instead of dealing with it once it's happened?",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "Discipline is the key to success.\nAbsolutely is.\nIf you cannot force yourself to do something that you do not want to do, how are you ever gonna put yourself through the suffering required for greatness?",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
+  {
+    quote: "I don’t think there’s a person on this planet who has a 100% approval rate.",
+    author: "Andrew Tate",
+    category: Categories.motivation,
+  },
   // Motivational Quotes: If You Fail, Try Again: https://www.forbesindia.com/article/explainers/motivational-quotes/84853/1
   /**
    * perseverance Quotes
