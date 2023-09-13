@@ -23,9 +23,6 @@
 import { Quote, Categories } from "./interfaces.js";
 
 export const quotes: Quote[] = [
-  /**
-   * Happy Quotes
-   */
   {
     author: "Rosamunde Pilcher, 'The Shell Seekers'",
     quote:
@@ -542,10 +539,6 @@ export const quotes: Quote[] = [
       "Life is like riding a bicycle. To keep your balance, you must keep moving.",
     category: Categories.inspiration,
   },
-  // 50 Quote https://parade.com/973277/jessicasager/inspirational-quotes/
-  /**
-   * Love Quotes
-   */
   {
     author: "Unknown",
     quote:
@@ -884,10 +877,6 @@ export const quotes: Quote[] = [
     quote: "We are most alive when we're in love.",
     category: Categories.love,
   },
-  // 60 quote https://www.goodhousekeeping.com/life/relationships/g3721/quotes-about-love/
-  /**
-   * motivation Quotes
-   */
   {
     quote:
       "If people knew how hard I worked to get my mastery, it wouldn't seem so wonderful after all.",
@@ -1353,10 +1342,6 @@ export const quotes: Quote[] = [
     author: "Andrew Tate",
     category: Categories.motivation,
   },
-  // Motivational Quotes: If You Fail, Try Again: https://www.forbesindia.com/article/explainers/motivational-quotes/84853/1
-  /**
-   * perseverance Quotes
-   */
   {
     author: "Nelson Mandela",
     quote: "It always seems impossible until it is done.",
@@ -2552,9 +2537,7 @@ export const quotes: Quote[] = [
     author: "Unknown",
     category: Categories.sad,
   },
-  /**
-   * Success Quotes
-   */
+
   {
     author: "Benjamin Franklin",
     quote:
@@ -2665,9 +2648,7 @@ export const quotes: Quote[] = [
       "Put your heart, mind, and soul into even your smallest acts. This is the secret of success.",
     category: Categories.success,
   },
-  /**
-   * Wisdom Quotes
-   */
+
   {
     author: "Aristotle",
     quote:
